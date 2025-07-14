@@ -1,0 +1,24 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  color: #333;
+}
+.semestre {
+  margin-bottom: 30px;
+}
+.materia {
+  background-color: #e6f0ff;
+  padding: 10px;
+  margin: 6px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.materia:hover {
+  background-color: #cce0ff;
+}
