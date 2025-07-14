@@ -7,3 +7,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 });
+function mostrarRequisito(nombre, requisito) {
+  alert(`${nombre}\n\n${requisito}`);
+}
